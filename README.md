@@ -72,7 +72,7 @@ wallet2.updateTransactions(blockchain)
 ```
 
 ## GUI Screenshots 
-In the old version of blockchain, GUI is still available. 
+
 
 ### Wallet Creation
 ![Enc1](https://github.com/trantorberk/basicblockchain/blob/main/gui_photos/photo1.png)
